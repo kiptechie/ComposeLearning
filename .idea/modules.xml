@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComposeLearning.iml" filepath="$PROJECT_DIR$/.idea/modules/ComposeLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ComposeLearning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ComposeLearning.app.iml" />
     </modules>
   </component>
 </project>
